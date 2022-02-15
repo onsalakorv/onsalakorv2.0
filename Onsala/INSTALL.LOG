@@ -1,0 +1,101 @@
+***  Installation Started 02/15/22 14:02  ***
+Title: Onsalakorv Installation
+Source: D:\setup.exe
+Made Dir: C:\Onsala
+File Copy: C:\Onsala\UNWISE.EXE
+File Copy: C:\Onsala\UNWISE.INI
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Onsalakorv
+RegDB Val: Onsalakorv
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\Onsalakorv
+RegDB Val: C:\Onsala\UNWISE.EXE C:\Onsala\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: C:\Onsala\ONSALA.EXE
+File Copy: C:\Onsala\VIKTIGT.DOC
+File Copy: C:\Onsala\HISTORIK.DIR
+File Copy: C:\Onsala\HUVUD.DIR
+File Copy: C:\Onsala\KLUBBEN.DIR
+File Copy: C:\Onsala\KYLEN.DIR
+File Copy: C:\Onsala\LEK.DIR
+File Copy: C:\Onsala\MASKINEN.DIR
+File Copy: C:\Onsala\MEMORY.DIR
+File Copy: C:\Onsala\OUTRO.DIR
+File Copy: C:\Onsala\RECEPT.DIR
+File Copy: C:\Onsala\SAUSAGE.DIR
+Made Dir: C:\Onsala\ASSETS
+Made Dir: C:\Onsala\ASSETS\ANIM
+File Copy: C:\Onsala\ASSETS\ANIM\SCENE01.MOV
+File Copy: C:\Onsala\ASSETS\ANIM\SCENE03.MOV
+File Copy: C:\Onsala\ASSETS\ANIM\SCENE04.MOV
+File Copy: C:\Onsala\ASSETS\ANIM\SCENE05.MOV
+File Copy: C:\Onsala\ASSETS\ANIM\SCENE06.MOV
+File Copy: C:\Onsala\ASSETS\ANIM\SCENE08.MOV
+File Copy: C:\Onsala\ASSETS\ANIM\SCENE09.MOV
+Made Dir: C:\Onsala\ASSETS\DIRECTOR
+File Copy: C:\Onsala\ASSETS\DIRECTOR\DECISION.CXT
+File Copy: C:\Onsala\ASSETS\DIRECTOR\EXIT.DXR
+File Copy: C:\Onsala\ASSETS\DIRECTOR\INTRO.DXR
+File Copy: C:\Onsala\ASSETS\DIRECTOR\KARAOKE.CXT
+File Copy: C:\Onsala\ASSETS\DIRECTOR\LOGO.DXR
+File Copy: C:\Onsala\ASSETS\DIRECTOR\PIGSDEMO.DXR
+File Copy: C:\Onsala\ASSETS\DIRECTOR\PROMPT.CXT
+File Copy: C:\Onsala\ASSETS\DIRECTOR\QT.CXT
+File Copy: C:\Onsala\ASSETS\DIRECTOR\STORY.CXT
+File Copy: C:\Onsala\ASSETS\DIRECTOR\STORY.DXR
+File Copy: C:\Onsala\ASSETS\DIRECTOR\THUMB.CXT
+Made Dir: C:\Onsala\ASSETS\DIRECTOR\XTRAS
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\FILEIO.X32
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\FILEIO16.X16
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\MIX16.X16
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\MIX32.X32
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\MIXSER~1
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\MIXSOUND.X16
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\SOUNDI~1.X32
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\SWADCMPR.X16
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\SWADCMPR.X32
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\SWASTRM.X16
+File Copy: C:\Onsala\ASSETS\DIRECTOR\XTRAS\\SWASTRM.X32
+Made Dir: C:\Onsala\ASSETS\HELP
+File Copy: C:\Onsala\ASSETS\HELP\AUTOHELP.MOV
+File Copy: C:\Onsala\ASSETS\HELP\HOMEHELP.MOV
+File Copy: C:\Onsala\ASSETS\HELP\PLAYHELP.MOV
+File Copy: C:\Onsala\ASSETS\HELP\SINGHELP.MOV
+Made Dir: C:\Onsala\ASSETS\INTRO
+File Copy: C:\Onsala\ASSETS\INTRO\BMM.MOV
+File Copy: C:\Onsala\ASSETS\INTRO\BUMPER.MOV
+File Copy: C:\Onsala\ASSETS\INTRO\EXIT.MOV
+File Copy: C:\Onsala\ASSETS\INTRO\SECRET.MOV
+File Copy: C:\Onsala\ASSETS\INTRO\INTRO.MOV
+Made Dir: C:\Onsala\ASSETS\KARAOKE
+File Copy: C:\Onsala\ASSETS\KARAOKE\SONG1.MOV
+File Copy: C:\Onsala\ASSETS\KARAOKE\SONG2.MOV
+File Overwrite: C:\Onsala\ASSETS\INTRO\INTRO.MOV
+File Overwrite: C:\Onsala\ASSETS\INTRO\INTRO.MOV
+Made Dir: C:\Onsala\XTRAS
+File Copy: C:\Onsala\XTRAS\FILEIO.X32
+File Copy: C:\Onsala\XTRAS\INETURL.X32
+File Copy: C:\Onsala\XTRAS\INETURL PPC XTRA
+File Copy: C:\Onsala\XTRAS\MIX32..X32
+File Copy: C:\Onsala\XTRAS\MIX SERVICES
+File Copy: C:\Onsala\XTRAS\NETFILE.X32
+File Copy: C:\Onsala\XTRAS\NETFILE PPC XTRA
+File Copy: C:\Onsala\XTRAS\NETLINGO PPC XTRA
+File Copy: C:\Onsala\XTRAS\NETLINGO.X32
+File Copy: C:\Onsala\XTRAS\PMATIC.X32
+File Copy: C:\Onsala\XTRAS\QUICKTIME ASSET..X32
+File Copy: C:\Onsala\XTRAS\SOUND IMPORT EXPORT.X32
+File Copy: C:\Onsala\XTRAS\SWADCMPR.X32
+File Copy: C:\Onsala\XTRAS\SWASTRM.X32
+Icon Group: ONSALA
+Icon Name: Onsalakorv
+Icon Cmd: ONSALA.EXE
+Icon Group: ONSALA
+Icon Name: Viktigt
+Icon Cmd: C:\Onsala\VIKTIGT.DOC
+Icon Group: ONSALA
+Icon Name: Uninstall
+Icon Cmd: C:\Onsala\UNWISE.EXE
+Shell Link: C:\Users\tagee\OneDrive\Skrivbord\Onsalakorv.lnk
+User Rights: Admin
